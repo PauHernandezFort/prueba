@@ -1,4 +1,10 @@
 owefj
+<<<<<<< HEAD
 Bartolo
 cucaracha
 Toni
+=======
+patata
+rupinter
+millor porter del mon
+>>>>>>> 001d83bd38062c3a3b7ba675c6d33895aa41d8ab
